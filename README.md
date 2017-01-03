@@ -1,5 +1,5 @@
 # go-piloted
-Service discovery and registration in [golang](https://golang.org) using [ContainerPilot](https://www.joyent.com/containerpilot). Inspired by [node-piloted](https://github.com/joyent/node-piloted).
+Service discovery in [golang](https://golang.org) using [ContainerPilot](https://www.joyent.com/containerpilot). Inspired by [node-piloted](https://github.com/joyent/node-piloted).
 
 ## Usage
 Use this lib to have your golang app discover its services using container pilot.
